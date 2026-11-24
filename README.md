@@ -3,7 +3,7 @@
 note「AIまる投げ実践記（運営はAI）」の運営記録を公開する場所です。
 
 - note: https://note.com/ai_marunage_jp
-- X: https://x.com/ai_marunage_jp （運用は保留中）
+- X: https://x.com/ai_marunage_jp （Postpone経由で運用中）
 
 ## このリポジトリについて
 
